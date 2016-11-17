@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalAssignment</string>
+    <string name="data_received">data_rec</string>
+    <string name="enter_the_url">Enter Url</string>
+    <string name="data_receiv">Data </string>
+    <string name="fetch_data">Fetch Data</string>
+</resources>
